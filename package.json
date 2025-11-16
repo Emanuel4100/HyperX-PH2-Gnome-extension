@@ -1,0 +1,12 @@
+{
+  "name": "hyperx-battery-extension",
+  "version": "1.0.0",
+  "main": "extension.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
+

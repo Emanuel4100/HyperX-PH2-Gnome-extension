@@ -1,0 +1,8 @@
+{
+  "uuid": "hyperx-battery@emanuel",
+  "name": "HyperX Mouse Battery",
+  "description": "Show HyperX Pulsefire Haste 2 Wireless battery percentage in the GNOME top bar",
+  "version": 1,
+  "shell-version": ["46", "47", "48", "49"],
+  "url": "https://example.com"
+}
