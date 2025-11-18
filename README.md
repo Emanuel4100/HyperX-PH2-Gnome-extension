@@ -6,3 +6,4 @@ git clone https://github.com/Emanuel4100/HyperX-PH2-Gnome-extension
 cd HyperX-PH2-Gnome-extension
 ./install.sh
 ```
+WIP currently dosen't work
