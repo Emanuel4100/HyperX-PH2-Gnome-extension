@@ -1,0 +1,13 @@
+.panel-label {
+    padding: 0;          /* remove extra padding */
+    margin-left: 2px;    /* small gap between icon and text */
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+
+
+/* make the icon follow this color */
+.panel-icon {
+    color: rgb(255, 255, 255);
+}
+ 

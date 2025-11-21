@@ -1,0 +1,10 @@
+{
+	"uuid": "hyperx-battery-indicator@emanuel",
+	"name": "HyperX battery indicator",
+	"description":"Gnome battery indicator for HyperX Plusefire 2",
+	"shell-version": ["45","46","47","48","49"],
+	"url": "https://github.com/Emanuel4100/HyperX-PH2-Gnome-extension/tree/main",
+	"version" : 1,
+	"stylesheet": "stylesheet.css"
+
+}
